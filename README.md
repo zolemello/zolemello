@@ -1,4 +1,79 @@
-### Hi there 👋
+
+
+<div id="header" align="center">
+  <img src="https://i.imgur.com/tsSNl6g.png"/>
+
+ 
+  <img src="https://komarev.com/ghpvc/?username=zolemello&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+
+
+
+
+
+---
+### Currently
+<div >Tecnicatura en Desarrollo de Sofware - IFST N°11 
+
+<br>
+<br>
+<br>
+
+
+
+<div align="center"><img src="https://i.imgur.com/bJaQvZb.gif"/></div>
+
+
+---
+### Do you have "The Knack"?
+
+<iframe width="500" height="320" src="https://www.youtube.com/embed/g8vHhgh6oM0?si=3WSeGMCdAevfS_q4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+---
+
+### (some) Languages & Tools
+<div>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="html" alt="html5" width="50" height="50"/>
+
+  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="css" alt="css 3" width="50" height="50" />
+
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" alt="javascript" width="50" height="50" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="50" height="50" />
+          
+          
+<br>
+<br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" title="c#" alt="c#" width="50" height="50" />
+                   
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="50" height="50"/>
+          
+<br>
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="ps" alt="photoshop" width="50" height="50"/>
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" alt="figma" width="50" height="50"/>
+          
+
+</div>
+
+--- 
+### Stats & Other stuff
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zolemello&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zolemello&count_private=true&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **zolemello/zolemello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
