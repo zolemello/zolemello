@@ -19,9 +19,9 @@
 ---
 ### About 👀
 <div >
- 📘 Estudiando: Tecnicatura en Desarrollo de Sofware - IFST N°11 
+ <strong>📘 Estudiando: </strong> Tecnicatura en Desarrollo de Sofware - IFST N°11 
 <br>
-💻 Portfolio: <a href="https://zolemello.github.io/PortfolioSM/"> Click Acá </a>
+ <strong>💻 Portfolio:  </strong><a href="https://zolemello.github.io/PortfolioSM/"> Click Acá </a>
 <br>
 
 <br>
