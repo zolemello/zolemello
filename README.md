@@ -32,7 +32,12 @@
 ---
 ### Do you have "The Knack"?
 
-<iframe width="500" height="320" src="https://www.youtube.com/embed/g8vHhgh6oM0?si=3WSeGMCdAevfS_q4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Play me!
+[![IMAGE ALT TEXT](https://i.imgur.com/GPnIu2F.jpeg)](https://www.youtube.com/watch?v=g8vHhgh6oM0&ab_channel=DIEHARDave "Dilbert - The Knack")
+
+
+
+
 
 
 ---
