@@ -48,32 +48,14 @@ Play me!
 
 ### (some) Languages & Tools
 <div>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="html" alt="html5" width="50" height="50"/>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,css,html,figma,github,haskell,js,notion,ps,visualstudio,vscode" />
+  </a>
+</p>
   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="css" alt="css 3" width="50" height="50" />
-
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" alt="javascript" width="50" height="50" />
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="50" height="50" />
-          
-          
-<br>
-<br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" title="c#" alt="c#" width="50" height="50" />
-                   
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="50" height="50"/>
-          
-<br>
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="ps" alt="photoshop" width="50" height="50"/>
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" alt="figma" width="50" height="50"/>
           
 
 </div>
