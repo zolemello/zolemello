@@ -21,6 +21,9 @@
 <div >
  <strong>📘 Estudiando: </strong> Tecnicatura en Desarrollo de Sofware - IFST N°11 
 <br>
+<div >
+ <strong>:briefcase: Trabajando: </strong> Cobol Developer - CICS
+<br>
  <strong>💻 Portfolio:  </strong><a href="https://zolemello.github.io/PortfolioSM/"> Click Acá </a>
 <br>
 
