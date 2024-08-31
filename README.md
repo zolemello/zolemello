@@ -51,7 +51,14 @@ Play me!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,css,html,figma,github,haskell,js,notion,ps,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,css,html,figma" />
+
+  </a>
+</p>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,haskell,js,notion,ps,visualstudio,vscode" />
+
   </a>
 </p>
   
